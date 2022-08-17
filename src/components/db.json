@@ -1,0 +1,31 @@
+{
+    "books": [
+        {
+            "title": "Crisis",
+            "author": "Robin cook",
+            "genre": "Mystery thriller",
+            "summary":"The terrifying story of a doctor who is the victim of a medical malpractise crisis",
+            "id": 2
+        },
+        {
+            "title": "The Alchemist",
+            "author": "Paulo Coelho",
+            "genre": "Drama",
+            "summary": "Magical story of Santiago, an Andalusian shepherd boy who yearns to travel in search of a worldly treasure",
+            "id": 3
+        },
+        {
+            "title":"Harry Potter",
+            "author":"J.K. Rowling",
+            "summary": " a young wizard who discovers his  magical on his eleventh birthday",
+            "id": 4
+        },
+        {
+            "title":" Da Vinci Code",
+            "author": "Dan Brown",
+            "genre": "Mystery thriller",
+            "summary": ""
+        }
+        }
+    ]
+}
